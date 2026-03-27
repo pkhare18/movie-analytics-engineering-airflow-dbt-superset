@@ -1,1 +1,1 @@
-# retail-analytics-engineering-airflow-dbt-superset
+# movie-analytics-engineering-airflow-dbt-superset

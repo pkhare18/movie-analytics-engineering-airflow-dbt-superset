@@ -1,7 +1,6 @@
-version: '3.8'
- 
+
 services:
-  postgres:
+  movie_postgres:
     image: postgres:15
     container_name: movie_postgres
     environment:
@@ -11,7 +10,41 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - postgres_data:/var/lib/postgresql/data
+     - movie_data:/var/lib/postgresql/data
+
+  airflow_postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - airflow_data:/var/lib/postgresql/data
+
+  airflow:
+    image: apache/airflow:2.7.0
+    env_file:
+      - .env
+    depends_on:
+      - airflow_postgres
+      - movie_postgres
+    environment:
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow_postgres:5432/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+    ports:
+      - "8080:8080"
+    command: >
+      bash -c "
+      airflow db init;
+      airflow users create --username admin --password admin --firstname admin --lastname user --role Admin --email admin@example.com &&
+      airflow scheduler &
+      airflow webserver --host 0.0.0.0 --port 8080      
+      "
+ 
  
 volumes:
-  postgres_data:
+  movie_data:
+  airflow_data:

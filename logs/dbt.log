@@ -1,0 +1,31 @@
+[0m14:21:41.546596 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7868de17a2a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7868ddc00fb0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7868de085940>]}
+
+
+============================== 14:21:41.560108 | 086a6d07-1af4-4222-b97a-c86da83c933f ==============================
+[0m14:21:41.560108 [info ] [MainThread]: Running with dbt=1.11.8
+[0m14:21:41.563131 [debug] [MainThread]: running dbt with arguments {'profiles_dir': '/home/codespace/.dbt', 'use_experimental_parser': 'False', 'log_cache_events': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'printer_width': '80', 'warn_error': 'None', 'write_json': 'True', 'log_path': 'logs', 'invocation_command': 'dbt init movie_dbt', 'version_check': 'True', 'indirect_selection': 'eager', 'send_anonymous_usage_stats': 'True', 'empty': 'None', 'debug': 'False', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'use_colors': 'True', 'fail_fast': 'False', 'target_path': 'None', 'cache_selected_only': 'False', 'static_parser': 'True', 'partial_parse': 'True', 'introspect': 'True'}
+[0m14:21:41.587685 [info ] [MainThread]: Creating dbt configuration folder at /home/codespace/.dbt
+[0m14:21:41.593431 [debug] [MainThread]: Starter project path: /workspaces/retail-analytics-engineering-airflow-dbt-superset/.venv/lib/python3.12/site-packages/dbt/include/starter_project
+[0m14:21:41.622949 [info ] [MainThread]: 
+Your new dbt project "movie_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m14:21:41.625023 [info ] [MainThread]: Setting up your profile.
+[0m14:24:18.313205 [info ] [MainThread]: Profile movie_dbt written to /home/codespace/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m14:24:18.315737 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 156.86707, "process_in_blocks": "10936", "process_kernel_time": 0.240694, "process_mem_max_rss": "109188", "process_out_blocks": "80", "process_user_time": 1.686119}
+[0m14:24:18.316419 [debug] [MainThread]: Command `dbt init` succeeded at 14:24:18.316297 after 156.87 seconds
+[0m14:24:18.317004 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7868de17a2a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7868ddb3c0b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7868dd7ae060>]}
+[0m14:24:18.317674 [debug] [MainThread]: Flushing usage events
+[0m14:24:19.244321 [debug] [MainThread]: An error was encountered while trying to flush usage events

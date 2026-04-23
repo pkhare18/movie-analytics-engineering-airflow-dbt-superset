@@ -1,0 +1,556 @@
+movie_id,title,popularity,vote_count,vote_average,release_date,original_language,genre_ids,source_type
+1523145,Your Heart Will Be Broken,929.5163,54,6.75,2026-03-26,ru,"[10749, 18]",popular
+83533,Avatar: Fire and Ash,396.4403,2468,7.374,2025-12-17,en,"[878, 12, 14]",popular
+1327819,Hoppers,362.734,425,7.586,2026-03-04,en,"[16, 10751, 878, 35, 12]",popular
+1290821,Shelter,277.9609,505,6.789,2026-01-28,en,"[28, 80, 53]",popular
+1171145,Crime 101,258.5828,576,7.1,2026-02-11,en,"[80, 53]",popular
+1226863,The Super Mario Galaxy Movie,227.6338,338,6.939,2026-04-01,en,"[10751, 35, 12, 14, 16]",popular
+502356,The Super Mario Bros. Movie,282.7132,10454,7.6,2023-04-05,en,"[10751, 35, 12, 14, 16]",popular
+1115544,Mike & Nick & Nick & Alice,223.1751,196,6.829,2026-03-14,en,"[35, 878, 80]",popular
+1297842,GOAT,213.3831,353,7.9,2026-02-11,en,"[16, 35, 10751]",popular
+840464,Greenland 2: Migration,228.4013,834,6.49,2026-01-07,en,"[12, 53, 878]",popular
+1268127,Humint,190.7011,67,7.269,2026-02-11,ko,"[53, 28, 18]",popular
+1084187,Pretty Lethal,177.2785,237,6.9,2026-03-13,en,"[10402, 53, 28, 27]",popular
+687163,Project Hail Mary,199.6673,1197,8.19,2026-03-15,en,"[878, 12]",popular
+1265609,War Machine,182.1927,1375,7.239,2026-02-12,en,"[28, 878, 53]",popular
+1159559,Scream 7,165.3555,699,6.036,2026-02-25,en,"[27, 9648, 80]",popular
+1159831,The Bride!,174.1869,254,6.4,2026-03-04,en,"[878, 27, 14]",popular
+662707,Starbright,157.283,10,7.3,2026-02-27,en,"[12, 28]",popular
+615,The Passion of the Christ,161.8747,5140,7.537,2004-02-25,en,[18],popular
+848116,Rocky Aur Rani Kii Prem Kahaani,137.7277,80,6.1,2023-07-28,hi,"[35, 18, 10751, 10749]",popular
+1470130,The Mortuary Assistant,153.538,44,5.432,2026-02-13,en,"[27, 9648]",popular
+1311031,Demon Slayer: Kimetsu no Yaiba Infinity Castle,129.1147,782,7.668,2025-07-18,ja,"[16, 28, 14]",popular
+1084242,Zootopia 2,133.0664,2511,7.604,2025-11-26,en,"[16, 10751, 9648, 12, 35, 28]",popular
+1419406,The Shadow's Edge,132.3308,557,7.233,2025-08-16,zh,"[28, 80, 18, 53]",popular
+329505,Lola's Secret,101.508,68,6.9,1984-05-04,it,"[18, 35, 27]",popular
+1193501,Whistle,109.0603,227,5.976,2026-01-20,en,"[27, 9648]",popular
+1339876,Mardaani 3,95.169,19,7.447,2026-01-30,hi,"[28, 80, 53]",popular
+1653994,Shrounding the Heavens Movie：Fighting Against Wang Teng with Copper Coffin,82.489,2,8,2026-04-04,zh,"[16, 28]",popular
+1198994,Send Help,88.5267,901,7.058,2026-01-22,en,"[27, 53, 35]",popular
+680493,Return to Silent Hill,90.8654,319,5.002,2026-01-21,en,"[9648, 18, 27]",popular
+1316092,"""Wuthering Heights""",91.317,720,6.528,2026-02-11,en,"[10749, 18]",popular
+1641319,Sniper: No Nation,172.0113,12,6.167,2026-04-07,en,"[28, 53]",popular
+879945,The Unknown Man,75.9102,3,7.333,2021-10-16,nl,[18],popular
+1368166,The Housemaid,90.7356,1752,7.186,2025-12-18,en,"[9648, 53]",popular
+875828,Peaky Blinders: The Immortal Man,79.4846,721,7.2,2026-03-05,en,"[80, 18]",popular
+1297454,The Death That Awaits,76.7367,16,5.781,2025-02-06,en,"[27, 53]",popular
+1168190,The Wrecking Crew,79.2431,876,6.897,2026-01-28,en,"[28, 35, 80, 9648]",popular
+1088434,Hellfire,79.2007,69,6.899,2026-02-05,en,"[28, 53]",popular
+1236153,Mercy,76.397,1047,6.986,2026-01-20,en,"[878, 28, 53, 80]",popular
+999136,Do Not Enter,70.0271,52,5.4,2026-03-19,en,[27],popular
+634649,Spider-Man: No Way Home,75.0785,21766,7.934,2021-12-15,en,"[28, 12, 878]",popular
+755898,War of the Worlds,75.1455,949,4.144,2025-07-29,en,"[878, 53]",popular
+1493859,Pizza Movie,73.9183,51,6.5,2026-03-13,en,"[12, 35, 14]",popular
+1325734,The Drama,74.2112,223,7.059,2026-03-26,en,"[10749, 35, 18]",popular
+157336,Interstellar,64.5628,39327,8.47,2014-11-05,en,"[12, 18, 878]",popular
+350,The Devil Wears Prada,76.82,12895,7.388,2006-06-29,en,"[18, 35]",popular
+1234731,Anaconda,71.8644,964,5.885,2025-12-24,en,"[12, 35, 27]",popular
+58008,Night Nurse,55.7694,51,5.1,1979-02-07,it,[35],popular
+1276038,A Desert,66.4612,22,6.1,2025-05-02,en,"[27, 53]",popular
+1572073,The Deadly Little Mermaid,61.56,23,4.717,2026-03-06,en,[27],popular
+1242898,Predator: Badlands,59.737,2586,7.698,2025-11-05,en,"[28, 878, 12]",popular
+405746,Door,54.5356,25,5.9,1988-05-14,ja,"[27, 9648, 53]",popular
+1582770,Dhurandhar: The Revenge,56.992,53,7.7,2026-03-18,hi,"[28, 80, 53]",popular
+181808,Star Wars: The Last Jedi,56.6615,16213,6.756,2017-12-13,en,"[12, 28, 878]",popular
+1634301,Vanaveera,52.053,6,7.5,2026-02-13,te,"[28, 18]",popular
+1381216,Lake Jesup: Bonecrusher's Revenge,55.9527,39,6.333,2024-05-01,en,"[27, 35, 12]",popular
+1539104,JUJUTSU KAISEN: Execution,56.8947,92,5.924,2025-11-07,ja,"[16, 28, 14]",popular
+24428,The Avengers,54.2816,37081,7.993,2012-04-25,en,"[878, 28, 12]",popular
+1272837,28 Years Later: The Bone Temple,53.2726,981,7.172,2026-01-14,en,"[27, 53, 878]",popular
+1646787,Sundutan,58.0021,1,4,2026-03-06,tl,[18],popular
+7451,xXx,54.2978,4846,5.983,2002-08-09,en,"[28, 12, 53, 80, 18]",popular
+936075,Michael,51.9619,0,0,2026-04-22,en,"[10402, 18, 36]",popular
+28975,Taffin,47.6884,50,5.6,1988-02-26,en,"[28, 53]",popular
+278,The Shawshank Redemption,47.8576,30081,8.718,1994-09-23,en,"[18, 80]",popular
+1306368,The Rip,45.8461,1482,7.051,2026-01-13,en,"[28, 53, 80]",popular
+1387382,Hunting Season,50.4855,178,6.9,2025-12-05,en,"[28, 18, 53]",popular
+425274,Now You See Me: Now You Don't,46.7263,1345,6.514,2025-11-12,en,"[80, 53]",popular
+803796,KPop Demon Hunters,45.3211,2620,8.024,2025-06-20,en,"[14, 10402, 35, 16]",popular
+12509,Pollock,45.5917,344,6.661,2000-09-06,en,"[18, 36]",popular
+467905,How to Make a Killing,43.1908,230,7.03,2026-02-19,en,"[35, 53]",popular
+299536,Avengers: Infinity War,45.0378,31705,8.234,2018-04-25,en,"[12, 28, 878]",popular
+19592,Dead Birds,40.1299,285,5.677,2005-04-22,en,"[27, 53, 37]",popular
+1167307,David,47.0417,123,8.085,2025-12-14,en,"[16, 10751, 18, 10402]",popular
+1635276,Eat Pray Bark,36.4159,58,5.741,2026-04-01,de,[35],popular
+1610418,The House on Haunted Grounds,58.8072,4,3.4,2026-01-01,en,[27],popular
+1066313,The Draft!,38.7602,4,6.25,2026-03-05,id,"[878, 27]",popular
+991494,The SpongeBob Movie: Search for SquarePants,40.4213,260,6.735,2025-12-16,en,"[16, 10751, 35, 12, 14]",popular
+1266127,Ready or Not: Here I Come,41.5948,121,7.14,2026-03-19,en,"[27, 35]",popular
+238,The Godfather,39.1263,22722,8.687,1972-03-14,en,"[18, 80]",popular
+1117857,In Your Dreams,38.6992,202,6.953,2025-11-07,en,"[16, 10751, 35, 12, 14]",popular
+1620551,Feel My Voice,40.8635,36,6.722,2026-04-03,it,"[10402, 18, 35]",popular
+1314786,Agent Zeta,36.3953,111,6.653,2026-03-20,es,"[18, 53]",popular
+76600,Avatar: The Way of Water,36.3418,13930,7.593,2022-12-14,en,"[28, 12, 878]",popular
+1234821,Jurassic World Rebirth,38.1916,3187,6.287,2025-07-01,en,"[878, 12, 28]",popular
+677638,We Bare Bears: The Movie,37.3884,844,7.84,2020-06-30,en,"[16, 12, 10751, 35, 10770]",popular
+1630433,The Red Line,34.7647,45,6.889,2026-03-22,th,"[53, 80, 18]",popular
+1426964,State of Fear,35.2488,62,5.565,2026-02-10,pt,"[28, 53, 80, 18]",popular
+1246049,Dracula,36.9181,1056,7.088,2025-07-30,fr,"[27, 14, 10749]",popular
+876566,The House,32.9165,55,5.5,2021-10-07,de,"[53, 18, 878]",popular
+1192548,Hannah Waddingham: Home for Christmas,37.1292,16,6,2023-11-21,en,[10402],popular
+517302,Hatching,36.2433,481,6.254,2022-03-04,fi,"[27, 14, 18]",popular
+1145758,Birder,29.4992,6,3.5,2023-08-11,en,"[53, 18]",popular
+1601243,Oscar Shaw,33.7411,29,6.483,2026-01-09,en,"[28, 80, 53, 37]",popular
+1241470,Osiris,34.8027,220,5.98,2025-07-25,en,"[878, 28, 27]",popular
+1511417,Bāhubali: The Epic,33.5875,34,6,2025-10-29,te,"[28, 18]",popular
+1292695,They Will Kill You,33.9301,119,6.517,2026-03-25,en,"[28, 27, 35]",popular
+744275,After We Fell,35.1097,2716,7.016,2021-09-01,en,"[18, 10749]",popular
+402431,Wicked,34.466,2954,6.912,2024-10-16,en,"[18, 10749, 14]",popular
+6844,The Ten Commandments,31.1916,1832,7.771,1956-10-05,en,"[18, 36]",popular
+1010581,My Fault,34.8643,4027,7.8,2023-06-08,es,"[18, 10749, 53]",popular
+1011985,Kung Fu Panda 4,34.9526,3438,7.002,2024-03-02,en,"[16, 10751, 28, 35, 12, 14]",popular
+19995,Avatar,33.6875,33745,7.601,2009-12-16,en,"[878, 28, 12]",popular
+1054867,One Battle After Another,38.1756,3448,7.4,2025-09-23,en,"[53, 80, 35]",popular
+120,The Lord of the Rings: The Fellowship of the Ring,33.1249,27297,8.431,2001-12-18,en,"[12, 14, 28]",popular
+1233413,Sinners,32.7909,4289,7.475,2025-04-16,en,"[27, 28, 53]",popular
+1426297,Play Dead,32.6893,37,5.973,2025-03-29,es,[27],popular
+533535,Deadpool & Wolverine,33.0704,8444,7.556,2024-07-24,en,"[28, 35, 878]",popular
+62029,Bingo Bongo,34.7653,172,5.7,1982-12-23,it,[35],popular
+680,Pulp Fiction,31.8659,29965,8.5,1994-09-10,en,"[53, 80, 35]",popular
+1218925,Chainsaw Man - The Movie: Reze Arc,32.5869,787,8.3,2025-09-19,ja,"[16, 28, 10749, 14]",popular
+798645,The Running Man,30.7544,1364,6.8,2025-11-11,en,"[28, 53, 878]",popular
+1584215,The Internship,31.9975,63,6.23,2026-01-13,en,[28],popular
+1291608,Dhurandhar,32.4164,241,7.008,2025-12-05,hi,"[28, 80, 53]",popular
+911430,F1,32.4093,3705,7.755,2025-06-25,en,"[28, 18]",popular
+1228246,Five Nights at Freddy's 2,31.2103,864,6.666,2025-12-03,en,"[27, 53]",popular
+872585,Oppenheimer,27.894,11573,8.032,2023-07-19,en,"[18, 36]",popular
+27205,Inception,29.9184,38971,8.371,2010-07-15,en,"[28, 878, 12]",popular
+862739,The Virgin of the Quarry Lake,27.3327,27,5.778,2025-04-08,es,"[27, 53]",popular
+1061474,Superman,30.6661,4581,7.3,2025-07-09,en,"[878, 12, 28]",popular
+129,Spirited Away,30.5796,18145,8.534,2001-07-20,ja,"[16, 10751, 14]",popular
+1062722,Frankenstein,30.9983,3282,7.653,2025-10-17,en,"[18, 14, 27]",popular
+646315,The Legendary Lighter,31.0853,4,4.8,2019-10-29,ko,[28],popular
+255669,The Oasis,30.309,6,4.2,1984-01-02,en,[18],popular
+496243,Parasite,30.7537,20387,8.494,2019-05-30,ko,"[35, 53, 18]",popular
+299534,Avengers: Endgame,31.0011,27467,8.234,2019-04-24,en,"[12, 878, 28]",popular
+671,Harry Potter and the Philosopher's Stone,32.5341,29371,7.898,2001-11-16,en,"[12, 14]",popular
+575265,Mission: Impossible - The Final Reckoning,27.5914,2689,7.167,2025-05-17,en,"[28, 53, 12]",popular
+193972,Living Marble,27.6783,8,4.6,1910-05-16,de,[35],popular
+155,The Dark Knight,31.1279,35451,8.5,2008-07-16,en,"[28, 80, 53]",popular
+1487320,The Giant Falls,27.0711,12,6.5,2026-04-01,es,[18],popular
+1087192,How to Train Your Dragon,29.8672,2712,7.927,2025-06-06,en,"[14, 10751, 28, 12]",popular
+1022789,Inside Out 2,30.9365,6577,7.544,2024-06-11,en,"[16, 12, 35, 10751]",popular
+1110034,Kraken,30.4389,9,6.25,2026-02-06,no,"[27, 28, 53]",popular
+950387,A Minecraft Movie,28.7097,2906,6.267,2025-03-31,en,"[10751, 14, 35, 12]",popular
+665,Ben-Hur,28.4276,3097,7.882,1959-11-18,en,"[36, 18, 12]",popular
+560016,Monkey Man,29.3211,1368,6.88,2024-04-03,en,"[28, 53]",popular
+617126,The Fantastic 4: First Steps,26.997,3173,6.963,2025-07-23,en,"[878, 12, 28]",popular
+50619,The Twilight Saga: Breaking Dawn - Part 1,30.8582,9213,6.189,2011-11-16,en,"[12, 14, 10749]",popular
+1196067,Worldbreaker,28.899,129,5.829,2025-10-30,en,"[878, 28, 27]",popular
+569094,Spider-Man: Across the Spider-Verse,28.2357,8429,8.332,2023-05-31,en,"[16, 28, 12, 878]",popular
+552524,Lilo & Stitch,27.2012,2104,7.195,2025-05-17,en,"[10751, 878, 35]",popular
+567609,Ready or Not,28.5192,5237,7,2019-08-21,en,"[27, 35]",popular
+1650558,Abot Langit,28.9896,1,5,2026-03-13,tl,[10749],popular
+597,Titanic,28.1374,26975,7.9,1997-12-18,en,"[18, 10749]",popular
+1305781,Blades of the Guardians: Wind Rises in the Desert,26.3782,32,7.1,2026-02-17,zh,"[28, 18, 36]",popular
+38,Eternal Sunshine of the Spotless Mind,29.0156,16194,8.09,2004-03-19,en,"[878, 18, 10749]",popular
+1448560,Wildcat,29.4877,148,6.2,2025-11-19,en,"[28, 53]",popular
+264980,Loves of a French Pussycat,26.15,6,3,1972-03-09,de,[35],popular
+1317288,Marty Supreme,25.633,1540,7.416,2025-12-19,en,"[18, 53]",popular
+1180831,Troll 2,26.3064,455,6.414,2025-11-30,no,"[28, 14, 53]",popular
+1241982,Moana 2,27.0172,3011,7,2024-11-21,en,"[16, 12, 10751, 35, 14]",popular
+1646142,Terrestrial,24.4548,2,6.5,2024-10-13,en,[27],popular
+122,The Lord of the Rings: The Return of the King,26.7595,26297,8.496,2003-12-17,en,"[12, 14, 28]",popular
+533533,TRON: Ares,26.8471,1310,6.473,2025-10-08,en,"[878, 12, 28]",popular
+603,The Matrix,26.4166,27628,8.241,1999-03-31,en,"[28, 878]",popular
+807,Se7en,24.822,22864,8.38,1995-09-22,en,"[80, 9648, 53]",popular
+519182,Despicable Me 4,28.4099,3142,6.982,2024-06-20,en,"[10751, 35, 16, 878, 12]",popular
+1363123,The Family Plan 2,26.2799,538,6.5,2025-11-11,en,"[28, 35]",popular
+14836,Coraline,26.2378,8856,7.9,2009-02-05,en,"[16, 10751, 14]",popular
+550,Fight Club,24.5828,31751,8.439,1999-10-15,en,"[18, 53]",popular
+1119449,"Good Luck, Have Fun, Don't Die",27.4766,312,6.91,2026-02-13,en,"[878, 28, 35]",popular
+1038392,The Conjuring: Last Rites,23.9886,1735,6.884,2025-09-03,en,[27],popular
+808,Shrek,27.5189,18576,7.759,2001-05-18,en,"[16, 35, 14, 12, 10751]",popular
+1266990,Kulong,26.9464,17,6.324,2024-05-24,tl,[18],popular
+1175942,The Bad Guys 2,25.2275,730,7.665,2025-07-24,en,"[10751, 35, 80, 12, 16]",popular
+1658216,Stepdaddy,32.9583,0,0,2026-04-04,tl,[18],popular
+950396,The Gorge,24.0825,3574,7.616,2025-02-13,en,"[10749, 878, 53]",popular
+62201,Shahenshah,27.0062,26,6.3,1988-01-29,hi,[28],popular
+1191876,From the Ashes,25.0505,0,0,2027-06-01,en,[18],popular
+269149,Zootopia,23.9973,17925,7.759,2016-02-11,en,"[16, 12, 10751, 35]",popular
+378236,The Emoji Movie,25.325,3295,5.393,2017-07-23,en,"[16, 10751, 35]",popular
+315635,Spider-Man: Homecoming,24.4437,23007,7.33,2017-07-05,en,"[28, 12, 878]",popular
+240,The Godfather Part II,23.2631,13766,8.572,1974-12-20,en,"[18, 80]",popular
+28322,Madness,28.551,28,4.929,1980-03-20,it,"[53, 28, 80]",popular
+557,Spider-Man,23.1795,20490,7.324,2002-05-01,en,"[28, 878]",popular
+372058,Your Name.,23.8224,12412,8.478,2016-08-26,ja,"[16, 10749, 18]",popular
+646380,Don't Look Up,26.6409,9226,7.066,2021-12-08,en,"[35, 878, 18]",popular
+346698,Barbie,25.168,10945,6.928,2023-07-19,en,"[35, 12]",popular
+1266992,Balinsasayaw,25.3972,3,5.3,2024-05-17,tl,[18],popular
+769,GoodFellas,23.6763,14188,8.453,1990-09-12,en,"[18, 80]",popular
+106646,The Wolf of Wall Street,21.1775,25715,8.028,2013-12-25,en,"[80, 18, 35]",popular
+1184918,The Wild Robot,23.8893,5879,8.308,2024-09-12,en,"[10751, 16, 878, 12]",popular
+773543,Fib the Truth,21.0878,89,5.8,2021-09-09,ru,"[18, 53]",popular
+1480382,The Voice of Hind Rajab,24.9945,255,8.041,2025-09-10,ar,"[18, 36]",popular
+1341137,A Great Awakening,22.9241,0,0,2026-04-03,en,"[18, 36]",popular
+497,The Green Mile,24.2572,19050,8.505,1999-12-10,en,"[14, 18, 80]",popular
+1015606,Obi-Wan Kenobi: A Jedi's Return,25.4616,1009,6.789,2022-09-07,en,[99],popular
+980477,Ne Zha 2,22.8438,642,8.121,2025-01-29,zh,"[16, 14, 12]",popular
+1462146,S4: The Bob Lazar Story,21.2206,8,8.4,2026-04-03,en,[99],popular
+1317672,Love Me Love Me,21.1769,214,5.675,2026-02-12,en,"[10749, 18]",popular
+912649,Venom: The Last Dance,24.6861,4099,6.663,2024-10-22,en,"[878, 28, 12]",popular
+674,Harry Potter and the Goblet of Fire,21.0351,22001,7.801,2005-11-16,en,"[12, 14]",popular
+939243,Sonic the Hedgehog 3,22.8696,3210,7.615,2024-12-19,en,"[28, 878, 35, 10751]",popular
+672,Harry Potter and the Chamber of Secrets,21.3482,23418,7.703,2002-11-13,en,"[12, 14]",popular
+13,Forrest Gump,22.9386,29496,8.464,1994-06-23,en,"[35, 18, 10749]",popular
+105,Back to the Future,23.6258,21587,8.325,1985-07-03,en,"[12, 35, 878]",popular
+1424965,Ice Skater,22.9154,15,5,2026-02-24,en,"[18, 53]",popular
+424,Schindler's List,22.5771,17291,8.567,1993-12-15,en,"[18, 36, 10752]",popular
+541671,Ballerina,22.0695,2472,7.242,2025-06-04,en,"[28, 53, 80]",popular
+1315303,Primate,22.5655,548,6.489,2026-01-01,en,"[27, 53]",popular
+438631,Dune,23.679,14690,7.8,2021-09-15,en,"[878, 12]",popular
+389,12 Angry Men,17.7182,9877,8.559,1957-04-10,en,[18],top_rated
+1181678,¿Quieres ser mi hijo?,8.7809,309,8.6,2023-09-21,en,"[35, 10749]",top_rated
+19404,Dilwale Dulhania Le Jayenge,12.2011,4572,8.515,1995-10-20,hi,"[35, 18, 10749]",top_rated
+429,"The Good, the Bad and the Ugly",16.9008,9535,8.468,1966-12-23,it,[37],top_rated
+346,Seven Samurai,13.4361,4170,8.452,1954-04-26,ja,"[28, 18]",top_rated
+12477,Grave of the Fireflies,0.0124,6446,8.4,1988-04-16,ja,"[16, 18, 10752]",top_rated
+637,Life Is Beautiful,11.3094,13891,8.439,1997-12-20,it,"[35, 18]",top_rated
+14537,Harakiri,8.4841,1185,8.438,1962-09-15,ja,"[28, 18, 36]",top_rated
+598,City of God,13.6267,8094,8.429,2002-08-30,pt,"[18, 80]",top_rated
+11216,Cinema Paradiso,9.8486,4777,8.4,1988-11-17,it,"[18, 10749]",top_rated
+40096,A Dog's Will,3.5354,1210,8.421,2000-09-15,pt,"[35, 18, 14, 10749]",top_rated
+667257,Impossible Things,3.2341,420,8.4,2021-06-17,es,"[10751, 18]",top_rated
+539,Psycho,14.9672,10904,8.416,1960-06-22,en,"[27, 53, 9648]",top_rated
+121,The Lord of the Rings: The Two Towers,19.2649,23677,8.414,2002-12-18,en,"[12, 14, 28]",top_rated
+510,One Flew Over the Cuckoo's Nest,16.6067,11338,8.413,1975-11-19,en,[18],top_rated
+255709,Hope,7.0258,832,8.397,2013-10-02,ko,[18],top_rated
+324857,Spider-Man: Into the Spider-Verse,21.7619,17039,8.393,2018-12-06,en,"[16, 28, 12, 878]",top_rated
+1891,The Empire Strikes Back,12.7263,18245,8.393,1980-05-20,en,"[12, 28, 878]",top_rated
+696374,Gabriel's Inferno,3.964,2449,8.389,2020-05-29,en,"[10749, 18]",top_rated
+4935,Howl's Moving Castle,21.0432,10945,8.388,2004-09-09,ja,"[14, 16, 12]",top_rated
+378064,A Silent Voice: The Movie,12.5465,4424,8.4,2016-09-17,ja,"[16, 18, 10749]",top_rated
+311,Once Upon a Time in America,13.5391,5967,8.384,1984-05-23,en,"[18, 80]",top_rated
+423,The Pianist,13.4915,10034,8.376,2002-09-17,en,"[18, 10752]",top_rated
+244786,Whiplash,19.8866,16472,8.375,2014-10-10,en,"[18, 10402, 53]",top_rated
+770156,Lucy Shimmers and the Prince of Peace,5.656,353,8.373,2020-10-19,en,"[18, 10751]",top_rated
+724089,Gabriel's Inferno: Part II,3.5524,1540,8.365,2020-07-31,en,"[10749, 18]",top_rated
+761053,Gabriel's Inferno: Part III,4.825,1075,8.361,2020-11-19,en,"[10749, 18]",top_rated
+12493,High and Low,7.3355,1107,8.353,1963-03-01,ja,"[18, 80, 53]",top_rated
+274,The Silence of the Lambs,4.348,17789,8.345,1991-02-14,en,"[80, 53, 18]",top_rated
+567,Rear Window,8.6174,7090,8.34,1954-08-01,en,"[53, 9648]",top_rated
+73,American History X,11.1319,12451,8.327,1998-07-01,en,[18],top_rated
+128,Princess Mononoke,14.4417,8891,8.325,1997-07-12,ja,"[12, 14, 16]",top_rated
+1058694,Radical,3.5349,495,8.322,2023-10-19,es,[18],top_rated
+820067,The Quintessential Quintuplets Movie,6.9562,434,8.3,2022-05-20,ja,"[16, 35, 10749]",top_rated
+3782,Ikiru,6.6745,1326,8.309,1952-10-09,ja,[18],top_rated
+372754,Dou kyu sei – Classmates,5.1679,434,8.304,2016-02-20,ja,"[10749, 16]",top_rated
+533514,Violet Evergarden: The Movie,5.9464,498,8.303,2020-09-18,ja,"[16, 18, 14, 10749]",top_rated
+10494,Perfect Blue,10.4815,3124,8.303,1998-02-28,ja,"[16, 53]",top_rated
+620249,The Legend of Hei,6.1151,449,8.301,2019-08-27,zh,"[16, 14, 28]",top_rated
+207,Dead Poets Society,13.6487,12446,8.3,1989-06-02,en,[18],top_rated
+101,Léon: The Professional,18.8855,15941,8.295,1994-09-14,fr,"[80, 18, 28]",top_rated
+42269,We All Loved Each Other So Much,3.7445,638,8.292,1974-12-21,it,"[18, 35]",top_rated
+644479,Dedicated to my ex,2.5548,513,8.3,2019-11-01,es,"[18, 35]",top_rated
+914,The Great Dictator,8.2204,3667,8.281,1940-10-15,en,"[35, 10752]",top_rated
+3082,Modern Times,4.7074,4044,8.28,1936-02-05,en,"[35, 18, 10749]",top_rated
+1585,It's a Wonderful Life,8.3771,4849,8.281,1946-12-20,en,"[18, 10751, 14]",top_rated
+1139087,Once Upon a Studio,5.7495,421,8.279,2023-09-24,en,"[16, 10751, 14, 18, 35]",top_rated
+599,Sunset Boulevard,6.9948,2895,8.279,1950-08-10,en,[18],top_rated
+335,Once Upon a Time in the West,11.3059,4842,8.277,1968-12-21,it,"[18, 37]",top_rated
+77338,The Intouchables,14.0136,18279,8.269,2011-11-02,fr,"[18, 35]",top_rated
+28,Apocalypse Now,11.4813,8986,8.3,1979-05-19,en,"[18, 10752]",top_rated
+18491,Neon Genesis Evangelion: The End of Evangelion,10.189,1824,8.261,1997-07-19,ja,"[16, 878, 18, 14]",top_rated
+572154,Rascal Does Not Dream of a Dreaming Girl,6.1895,583,8.3,2019-06-15,ja,"[16, 10749, 18, 14]",top_rated
+975,Paths of Glory,5.5831,3240,8.3,1957-10-25,en,"[10752, 18]",top_rated
+632632,Given,5.0406,413,8.3,2020-08-22,ja,"[16, 18, 10402, 10749]",top_rated
+654299,Out of the Clear Blue Sky,2.3413,378,8.3,2019-12-24,es,"[35, 18, 10402]",top_rated
+652837,"Josee, the Tiger and the Fish",6.2869,583,8.3,2020-12-25,ja,"[16, 18, 10749]",top_rated
+901,City Lights,4.2879,2424,8.3,1931-02-06,en,"[35, 18, 10749]",top_rated
+15804,A Brighter Summer Day,5.8709,380,8.253,1991-07-27,zh,"[80, 18, 10749]",top_rated
+637920,Miracle in Cell No. 7,6.1192,4540,8.253,2019-10-10,tr,[18],top_rated
+92321,Hotarubi no Mori e,0.0058,1207,8.253,2011-09-17,ja,"[10749, 16, 14]",top_rated
+8587,The Lion King,20.6108,19543,8.252,1994-06-15,en,"[16, 10751, 18, 12, 35]",top_rated
+29259,Le Trou,5.3208,563,8.248,1960-03-18,fr,"[18, 53, 80]",top_rated
+10376,The Legend of 1900,6.1107,2422,8.242,1998-10-28,it,"[18, 10402]",top_rated
+630566,Clouds,3.9854,1045,8.2,2020-10-09,en,"[10402, 18, 10749]",top_rated
+670,Oldboy,16.4765,9709,8.239,2003-11-21,ko,"[18, 53, 9648, 28]",top_rated
+1356039,Counterattack,8.4823,803,8.238,2025-02-27,es,"[28, 12, 53]",top_rated
+447362,Life in a Year,3.4782,1955,8.234,2020-11-27,en,"[18, 10749]",top_rated
+1186532,The Forge,3.091,326,8.232,2024-08-22,en,"[18, 10751]",top_rated
+98,Gladiator,17.826,20707,8.224,2000-05-04,en,"[28, 18, 12]",top_rated
+508965,Klaus,5.4744,4604,8.2,2019-11-08,en,"[16, 10751, 35, 12, 18]",top_rated
+490132,Green Book,14.014,12731,8.223,2018-11-16,en,"[18, 35, 36]",top_rated
+857,Saving Private Ryan,14.8417,17040,8.223,1998-07-24,en,"[10752, 18, 36]",top_rated
+995133,"The Boy, the Mole, the Fox and the Horse",3.9443,704,8.222,2022-12-25,en,"[16, 10751, 18, 12]",top_rated
+504253,I Want to Eat Your Pancreas,6.2488,1751,8.222,2018-09-01,ja,"[16, 18, 10749]",top_rated
+110420,Wolf Children,5.9307,2452,8.221,2012-07-21,ja,"[16, 10751, 18, 14]",top_rated
+568332,Taylor Swift: Reputation Stadium Tour,2.1751,426,8.218,2018-12-31,en,[10402],top_rated
+527641,Five Feet Apart,6.1677,5885,8.217,2019-03-14,en,"[10749, 18]",top_rated
+25237,Come and See,5.8213,1795,8.218,1985-10-17,ru,"[18, 10752]",top_rated
+16869,Inglourious Basterds,15.7213,23980,8.217,2009-08-02,en,"[18, 53, 10752]",top_rated
+24188,Il Sorpasso,1.6617,829,8.216,1962-12-05,it,"[18, 35, 12]",top_rated
+92060,Michael Jackson's Thriller,3.5893,740,8.2,1983-11-14,en,"[27, 53, 10402]",top_rated
+265177,Mommy,3.9433,2833,8.211,2014-09-19,fr,[18],top_rated
+16672,Woman in the Dunes,2.9611,508,8.208,1964-02-15,ja,"[18, 53]",top_rated
+1160164,TAYLOR SWIFT | THE ERAS TOUR,3.0928,512,8.207,2023-10-13,en,[10402],top_rated
+37257,Witness for the Prosecution,4.244,1655,8.207,1957-12-17,en,"[18, 9648, 80]",top_rated
+1124,The Prestige,14.7957,17404,8.207,2006-10-17,en,"[18, 9648, 878]",top_rated
+283566,Evangelion: 3.0+1.0 Thrice Upon a Time,7.1261,932,8.2,2021-03-08,ja,"[16, 28, 878, 18]",top_rated
+694,The Shining,14.8754,18766,8.205,1980-05-23,en,"[27, 53]",top_rated
+618344,Justice League Dark: Apokolips War,4.1217,1556,8.2,2020-05-05,en,"[16, 28, 12, 14]",top_rated
+11,Star Wars,21.0774,22138,8.202,1977-05-25,en,"[12, 28, 878]",top_rated
+315162,Puss in Boots: The Last Wish,14.9157,8719,8.201,2022-12-07,en,"[16, 12, 14, 35, 10751]",top_rated
+635302,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,12.7416,4445,8.199,2020-10-16,ja,"[16, 28, 14]",top_rated
+11324,Shutter Island,14.7286,25632,8.198,2010-02-14,en,"[18, 53, 9648]",top_rated
+50014,The Help,11.0884,8940,8.2,2011-08-09,en,[18],top_rated
+441130,Wolfwalkers,3.6111,1355,8.197,2020-10-26,en,"[16, 10751, 12, 14]",top_rated
+354912,Coco,19.684,20806,8.197,2017-10-27,en,"[10751, 16, 10402, 12]",top_rated
+324786,Hacksaw Ridge,19.3363,14722,8.19,2016-10-07,en,"[18, 36, 10752]",top_rated
+68718,Django Unchained,15.1215,27811,8.19,2012-12-25,en,"[18, 37]",top_rated
+313106,Doctor Who: The Day of the Doctor,2.4488,767,8.189,2013-11-23,en,"[878, 12]",top_rated
+290098,The Handmaiden,15.3591,4255,8.189,2016-06-01,ko,"[53, 18, 10749]",top_rated
+284,The Apartment,5.1162,2611,8.2,1960-06-21,en,"[35, 18, 10749]",top_rated
+620683,My Mom Is a Character 3,0.6439,493,8.2,2019-12-26,pt,[35],top_rated
+185,A Clockwork Orange,11.293,13719,8.178,1971-10-28,en,"[878, 80]",top_rated
+537061,Steven Universe: The Movie,2.8276,847,8.2,2019-10-07,en,"[10770, 16, 10751, 12, 14]",top_rated
+77,Memento,10.6818,16073,8.177,2000-10-11,en,"[9648, 53]",top_rated
+5156,Bicycle Thieves,3.4225,2631,8.171,1948-07-21,it,[18],top_rated
+522924,The Art of Racing in the Rain,3.7124,1659,8.17,2019-08-08,en,"[18, 10749]",top_rated
+26451,Investigation of a Citizen Above Suspicion,1.3858,860,8.2,1970-10-16,it,"[18, 53]",top_rated
+629,The Usual Suspects,10.5877,11285,8.17,1995-07-19,en,"[18, 80, 53]",top_rated
+348,Alien,17.8366,16186,8.169,1979-05-25,en,"[27, 878]",top_rated
+18148,Tokyo Story,4.0361,1207,8.166,1953-11-03,ja,[18],top_rated
+490,The Seventh Seal,4.5804,3308,8.2,1957-02-16,sv,"[14, 18]",top_rated
+1422,The Departed,13.2323,16041,8.16,2006-10-04,en,"[18, 53, 80]",top_rated
+489,Good Will Hunting,12.8701,13690,8.159,1997-12-05,en,[18],top_rated
+476292,Maquia: When the Promised Flower Blooms,4.83,697,8.158,2018-02-24,ja,"[16, 14, 18]",top_rated
+111,Scarface,16.0801,12877,8.156,1983-12-09,en,"[28, 80, 18]",top_rated
+361743,Top Gun: Maverick,20.4616,10743,8.153,2022-05-21,en,"[28, 18]",top_rated
+37165,The Truman Show,15.985,20007,8.152,1998-06-04,en,"[35, 18]",top_rated
+20941,Innocent Voices,2.3276,515,8.151,2005-01-28,es,"[18, 10752]",top_rated
+399106,Piper,1.6839,1722,8.15,2016-06-16,en,"[10751, 16]",top_rated
+81481,Silenced,3.8977,760,8.147,2011-09-22,ko,[18],top_rated
+426,Vertigo,6.0305,6272,8.147,1958-05-09,en,"[9648, 10749, 53]",top_rated
+851644,20th Century Girl,9.6431,800,8.1,2022-10-06,ko,"[10749, 18]",top_rated
+280,Terminator 2: Judgment Day,17.1618,14104,8.143,1991-07-03,en,"[28, 53, 878]",top_rated
+289,Casablanca,7.4796,5984,8.142,1943-01-15,en,"[18, 10749]",top_rated
+10098,The Kid,2.7648,2346,8.1,1921-01-21,en,"[35, 18]",top_rated
+3780,Red Beard,3.902,403,8.1,1965-03-04,ja,[18],top_rated
+517814,Capernaum,3.3641,1952,8.138,2018-09-20,ar,[18],top_rated
+9702,Bound by Honor,4.8145,1499,8.1,1993-02-05,en,"[80, 18, 53]",top_rated
+797,Persona,3.3786,2384,8.135,1966-10-18,sv,[18],top_rated
+666,Central Station,2.4142,1039,8.134,1998-04-03,pt,[18],top_rated
+872,Singin' in the Rain,6.655,3463,8.134,1952-04-10,en,"[35, 10749]",top_rated
+693134,Dune: Part Two,23.3369,7763,8.13,2024-02-27,en,"[878, 12]",top_rated
+592350,My Hero Academia: Heroes Rising,4.901,1261,8.13,2019-12-20,ja,"[16, 28, 14, 12]",top_rated
+606856,Togo,4.0127,2231,8.128,2019-12-20,en,"[12, 10751]",top_rated
+103,Taxi Driver,13.4637,13310,8.128,1976-02-09,en,"[80, 18]",top_rated
+475557,Joker,20.9861,27517,8.126,2019-10-01,en,"[80, 53, 18]",top_rated
+458220,Palmer,3.7123,1882,8.124,2021-01-28,en,[18],top_rated
+575813,Better Days,4.0063,542,8.123,2019-10-25,zh,"[18, 80, 10749]",top_rated
+935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,5.6176,6101,8.124,1964-01-29,en,"[35, 10752]",top_rated
+1103621,How to Make Millions Before Grandma Dies,4.6754,383,8.12,2024-04-04,th,[18],top_rated
+600,Full Metal Jacket,8.7423,11337,8.119,1987-06-26,en,"[18, 10752]",top_rated
+500,Reservoir Dogs,10.4612,15319,8.116,1992-09-02,en,"[80, 53]",top_rated
+810693,Jujutsu Kaisen 0,11.9153,1693,8.1,2021-12-24,ja,"[16, 28, 14]",top_rated
+20914,My Friends,1.4878,744,8.111,1975-10-24,it,[35],top_rated
+10681,WALL·E,17.7979,20090,8.1,2008-06-22,en,"[16, 10751, 878]",top_rated
+406997,Wonder,9.8548,8213,8.107,2017-11-13,en,"[10751, 18]",top_rated
+38288,"“The Shorts” by Aldo, Giovanni and Giacomo",0.5591,360,8.107,1996-03-29,it,[35],top_rated
+422,8½,4.5168,2502,8.108,1963-02-14,it,[18],top_rated
+146233,Prisoners,12.0432,12912,8.104,2013-09-19,en,"[18, 53, 80]",top_rated
+812225,Black Clover: Sword of the Wizard King,6.911,364,8.103,2023-06-16,ja,"[16, 14, 28, 12]",top_rated
+531428,Portrait of a Lady on Fire,6.1083,2891,8.101,2019-09-06,fr,"[18, 10749]",top_rated
+46738,Incendies,6.8103,3216,8.101,2010-09-17,fr,"[18, 10752, 9648]",top_rated
+600354,The Father,5.0125,3580,8.097,2020-12-23,en,[18],top_rated
+655,"Paris, Texas",5.216,2182,8.098,1984-07-16,en,[18],top_rated
+100,"Lock, Stock and Two Smoking Barrels",3.0061,7125,8.096,1998-08-28,en,"[35, 80]",top_rated
+149871,The Tale of The Princess Kaguya,5.5385,1959,8.096,2013-11-23,ja,"[16, 18, 14]",top_rated
+103663,The Hunt,7.4406,4693,8.096,2012-10-25,da,[18],top_rated
+1398,Stalker,4.863,2474,8.097,1979-05-25,ru,"[878, 18]",top_rated
+508442,Soul,11.7003,11305,8.092,2020-12-25,en,"[16, 10751, 18, 10402, 14]",top_rated
+398818,Call Me by Your Name,9.6817,12671,8.1,2017-10-01,en,"[10749, 18]",top_rated
+996,Double Indemnity,2.7626,2007,8.092,1944-07-06,en,"[80, 53]",top_rated
+791373,Zack Snyder's Justice League,11.2072,10720,8.091,2021-03-18,en,"[28, 12, 14]",top_rated
+823219,Flow,17.5008,2733,8.09,2024-08-29,lv,"[16, 12, 14, 10751]",top_rated
+19,Metropolis,3.7546,3064,8.1,1927-01-10,de,"[18, 878]",top_rated
+755812,"Miraculous World: New York, United HeroeZ",3.8217,1121,8.1,2020-09-25,fr,"[16, 10751, 10770, 28, 12]",top_rated
+795607,Green Snake,4.4371,356,8.1,2021-07-23,zh,"[16, 14, 28, 12]",top_rated
+664767,Mortal Kombat Legends: Scorpion's Revenge,3.5295,1443,8.088,2020-04-12,en,"[16, 28, 14]",top_rated
+843,In the Mood for Love,8.8527,3203,8.088,2000-09-29,cn,"[18, 10749]",top_rated
+387,Das Boot,4.4188,2476,8.088,1981-09-17,de,"[18, 36, 10752]",top_rated
+406,La Haine,5.7123,4492,8.085,1995-05-31,fr,[18],top_rated
+1497970,Tom and Jerry: Forbidden Compass,22.4167,29,6.2,2025-08-02,zh,"[16, 35, 10751, 14, 12]",upcoming
+1304313,Lee Cronin's The Mummy,22.369,0,0,2026-04-15,en,"[27, 9648]",upcoming
+696393,Cold Storage,19.1271,305,6.7,2026-01-22,en,"[27, 878, 35]",upcoming
+1314481,The Devil Wears Prada 2,21.2121,0,0,2026-04-29,en,"[18, 35]",upcoming
+1408208,Exit 8,21.5968,257,6.5,2025-08-28,ja,"[27, 9648]",upcoming
+1406657,Scarlet,18.8648,64,7.281,2025-11-21,ja,"[16, 28, 18, 878]",upcoming
+1412598,Killer Whale,17.2808,73,5.664,2026-01-16,en,"[53, 27, 28, 9648, 878]",upcoming
+1381027,Good Boy,14.3397,66,7.326,2026-03-06,en,"[53, 18, 9648]",upcoming
+1317149,I Swear,16.6137,170,8.321,2025-09-22,en,"[18, 36]",upcoming
+604079,The Long Walk,14.9678,1308,6.925,2025-09-10,en,"[878, 53, 27]",upcoming
+1124566,Sentimental Value,11.0814,806,7.5,2025-08-20,no,[18],upcoming
+1144107,The Legend of Hei 2,11.7047,46,8.5,2025-07-18,zh,"[16, 14, 28]",upcoming
+16859,Kiki's Delivery Service,11.1046,4514,7.834,1989-07-29,ja,"[16, 10751, 14, 18]",upcoming
+1450527,Forbidden Fruits,10.9161,12,7,2026-03-26,en,"[27, 35]",upcoming
+1301421,The Sheep Detectives,11.5495,0,0,2026-05-06,en,"[9648, 80, 35, 10751]",upcoming
+1242937,The Dreadful,7.8032,60,6.2,2026-02-20,en,[27],upcoming
+1033148,Die My Love,11.1978,463,6.157,2025-10-06,en,[18],upcoming
+1242332,Normal,15.7263,0,0,2026-04-16,en,"[28, 80, 53]",upcoming
+1450257,Clika,9.3295,15,5.8,2026-01-22,en,"[10402, 18]",upcoming
+1154538,Nirvanna the Band the Show the Movie,10.8371,35,7.6,2026-02-13,en,"[35, 878, 12]",upcoming
+931285,Mortal Kombat II,10.6716,0,0,2026-05-06,en,"[28, 14, 12]",upcoming
+1010755,The Strangers: Chapter 3,9.0929,85,5.235,2026-02-05,en,"[27, 53]",upcoming
+414419,Kill Bill: The Whole Bloody Affair,10.1944,1197,8,2011-03-27,en,"[28, 80]",upcoming
+141,Donnie Darko,9.1401,13305,7.764,2001-01-19,en,"[14, 18, 9648]",upcoming
+149,Akira,8.953,4706,7.945,1988-06-10,ja,"[16, 878, 28]",upcoming
+18239,The Twilight Saga: New Moon,8.8628,9685,5.99,2009-11-18,en,"[12, 14, 18, 10749]",upcoming
+14574,The Boy in the Striped Pyjamas,9.0453,7597,7.816,2008-05-07,en,"[18, 10752, 36]",upcoming
+1194963,Noise,8.6017,63,6.73,2025-06-25,ko,"[27, 53]",upcoming
+1307373,Wasteman,8.91,7,7.6,2026-02-20,en,"[53, 80, 18]",upcoming
+878608,Resurrection,8.4197,51,6.9,2025-11-22,zh,"[878, 18]",upcoming
+1445363,EPiC: Elvis Presley in Concert,8.9129,39,8,2026-02-18,en,"[10402, 99]",upcoming
+842924,The Life of Chuck,8.9912,982,7.279,2025-06-05,en,"[14, 18]",upcoming
+1456349,It Was Just an Accident,7.492,506,7.147,2025-10-01,fr,"[18, 53, 80, 9648]",upcoming
+842675,The Wandering Earth II,6.4122,704,7.3,2023-01-22,zh,"[878, 28, 12]",upcoming
+37797,Whisper of the Heart,6.3091,2252,7.949,1995-07-15,ja,"[16, 18, 10751]",upcoming
+762,Monty Python and the Holy Grail,7.2436,6338,7.804,1975-04-03,en,"[12, 35, 14]",upcoming
+55721,Bridesmaids,8.4491,4637,6.506,2011-05-13,en,"[35, 10749]",upcoming
+1287141,Pillion,6.0706,155,6.3,2025-11-28,en,"[10749, 18, 35]",upcoming
+1151272,Sirāt,6.6093,595,6.85,2025-06-06,es,"[18, 53]",upcoming
+1160360,If I Had Legs I'd Kick You,5.9478,278,6.333,2025-10-10,en,[18],upcoming
+1159206,Father Mother Sister Brother,6.4825,212,6.5,2025-12-01,en,"[35, 18]",upcoming
+876792,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,6.3973,426,7.365,2022-11-25,ja,"[16, 14, 12]",upcoming
+1140521,The Magic Faraway Tree,5.7574,6,6.333,2026-03-26,en,"[10751, 14, 12]",upcoming
+1290432,A Private Life,5.5662,124,5.722,2025-09-27,fr,"[18, 9648, 80]",upcoming
+1510583,Rakkhosh,6.0829,1,5.5,2026-03-21,bn,"[28, 10749]",upcoming
+1371185,Song Sung Blue,6.4496,213,7.4,2025-12-25,en,"[10402, 10749, 18]",upcoming
+1383731,Protector,5.4767,13,7.308,2026-03-05,en,"[28, 53]",upcoming
+685274,Mobile Suit Gundam Hathaway,5.7664,143,7.2,2021-06-11,ja,"[16, 28, 18, 878]",upcoming
+1443576,Sundays,5.0748,111,7.099,2025-10-17,es,[18],upcoming
+1242265,Fuze,5.4753,5,5.6,2026-03-23,en,"[28, 80, 53]",upcoming
+1443374,森中有林,5.2217,0,0,2026-05-01,zh,"[18, 10749, 80]",upcoming
+1146058,The Pout-Pout Fish,5.18,3,5.333,2026-01-01,en,"[16, 10751, 12, 35]",upcoming
+1519168,The Jester 2,5.1413,59,6.314,2025-09-15,en,"[27, 53, 80]",upcoming
+7459,Speed Racer,4.6469,1738,6.332,2008-05-07,en,"[10751, 28, 12, 35]",upcoming
+1291659,The Wizard of the Kremlin,5.4365,110,6.4,2026-01-21,en,[18],upcoming
+1318447,Apex,4.0575,0,0,2026-04-24,en,"[28, 53]",upcoming
+1370814,The Plague,4.1121,76,6.408,2025-12-24,en,[18],upcoming
+1262815,The Choral,4.1674,25,6.2,2025-11-07,en,"[35, 18, 10402]",upcoming
+1379266,Kokuho,4.2069,55,7.9,2025-06-06,ja,[18],upcoming
+1102883,Mother Mary,4.785,0,0,2026-04-17,en,"[10402, 18, 53]",upcoming
+1429348,The Stranger,4.7818,133,6.8,2025-10-29,fr,"[18, 80]",upcoming
+1480387,undertone,4.4669,30,6.333,2026-03-12,en,"[27, 9648]",upcoming
+1292415,Beast,4.6056,2,6,2026-04-10,en,"[28, 18]",upcoming
+539745,Animal Farm,4.1285,0,0,2026-05-01,en,"[16, 35, 18, 10751]",upcoming
+1462735,"Two Seasons, Two Strangers",4.1193,10,7.7,2025-11-07,ja,[18],upcoming
+1510745,Bodycam,4.4871,27,4.7,2026-03-12,en,[27],upcoming
+532639,Pinocchio,3.9183,1715,6.29,2022-09-07,en,"[14, 12, 10751]",upcoming
+1263012,Dead Man's Wire,3.8509,88,6.409,2026-01-09,en,"[80, 18, 53]",upcoming
+1177767,Mile End Kicks,4.2106,0,0,2026-04-17,en,"[35, 10749, 10402]",upcoming
+1294698,Case 137,3.5524,131,7.1,2025-11-19,fr,"[80, 18]",upcoming
+1363974,That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea,3.6641,0,0,2026-02-27,ja,"[16, 14, 12, 35]",upcoming
+649,Belle de Jour,3.1482,1008,7.3,1967-05-24,fr,"[18, 10749]",upcoming
+756397,Hitpig!,3.5761,45,6.7,2024-11-01,en,"[16, 35, 12, 10751]",upcoming
+1397364,La Grazia,3.8949,314,7.425,2025-12-05,it,[18],upcoming
+1007757,Swapped,3.327,0,0,2026-05-01,en,"[16, 12, 35, 10751, 14]",upcoming
+1339713,Obsession,4.0105,0,0,2026-04-16,en,[27],upcoming
+5511,Le Samouraï,3.5424,1234,7.768,1967-10-25,fr,"[80, 53, 18]",upcoming
+1168719,Silent Friend,3.4125,11,8.2,2026-01-15,de,[18],upcoming
+137409,Cold War,3.8397,190,6.7,2012-11-08,cn,"[28, 53]",upcoming
+1254808,Nouvelle Vague,3.8371,178,7.4,2025-10-08,fr,"[35, 18, 36]",upcoming
+1389881,The Cure,3.5257,9,4.3,2026-03-20,en,"[27, 53]",upcoming
+11963,Three Days of the Condor,3.4783,1343,7.275,1975-09-24,en,"[53, 9648]",upcoming
+1315657,Yellow Letters,2.6262,17,7.529,2026-03-05,tr,[18],upcoming
+1357759,Girl,2.8705,8,7.25,2025-10-31,zh,[18],upcoming
+416249,Cold War II,3.5638,118,6.3,2016-07-08,cn,"[28, 53, 80]",upcoming
+1134463,Dreams,3.4292,61,6.311,2025-07-10,es,"[10749, 53, 18]",upcoming
+1235304,Colours of Time,3.4268,221,7.475,2025-05-22,fr,"[18, 35]",upcoming
+1390300,Over Your Dead Body,3.0166,0,0,2026-04-24,en,"[35, 28, 53]",upcoming
+1479846,Hive,1.699,0,0,2026-04-17,en,"[27, 53]",upcoming
+1430077,Hokum,3.4105,0,0,2026-04-29,en,"[27, 9648]",upcoming
+11986,Betty Blue,3.2011,458,7.222,1986-04-09,fr,"[18, 10749]",upcoming
+1127384,Deep Water,2.7632,0,0,2026-05-01,en,"[53, 27]",upcoming
+524635,The Chronology of Water,2.8935,40,6.4,2025-10-15,en,[18],upcoming
+38985,Sorcerer,3.2106,644,7.444,1977-06-24,en,"[53, 12, 18]",upcoming
+1221061,Sound of Falling,3.1205,81,6.9,2025-08-28,de,[18],upcoming
+1266800,The Desert Child,2.8062,2,8.5,2026-04-08,fr,"[10751, 12]",upcoming
+1451867,Ghost Elephants,2.4627,18,6.861,2026-02-27,en,[99],upcoming
+1393151,Mr. Nobody Against Putin,2.8816,84,7.393,2025-06-06,da,[99],upcoming
+1399462,Calle Malaga,2.6064,30,7.167,2025-10-31,es,[18],upcoming
+910850,MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe,2.9945,2,8.5,2026-01-30,ja,"[16, 878, 10752, 18]",upcoming
+1180906,Desert Dawn,3.2968,60,6.45,2025-05-15,en,"[28, 80, 9648, 53]",upcoming
+1248723,The Golden Key: A New Pinocchio Story,2.5489,6,5.9,2026-01-01,ru,"[10751, 18, 12, 14]",upcoming
+1390382,Couture,3.0576,21,5.4,2026-02-18,fr,[18],upcoming
+1239134,Bhooth Bangla,3.0858,0,0,2026-04-16,hi,"[27, 35]",upcoming
+1084577,Balls Up,2.7636,0,0,2026-04-15,en,"[28, 35]",upcoming
+1211442,Rebuilding,3.3794,39,6.8,2025-11-14,en,[18],upcoming
+12720,Suicide Club,2.4213,550,6.4,2001-10-29,ja,"[18, 27, 53]",upcoming
+1391074,Busboys,2.6159,0,0,2026-04-17,en,[35],upcoming
+1400357,The Christophers,2.335,0,0,2026-04-10,en,"[80, 35]",upcoming
+1317512,The World of Love,2.5625,4,8.2,2025-10-22,ko,[18],upcoming
+1602727,Night King,2.5331,14,7.5,2026-02-14,cn,"[35, 18]",upcoming
+1337985,A Pale View of Hills,2.8108,12,7.7,2025-09-05,ja,"[18, 36]",upcoming
+1303613,Deaf,2.0205,91,7.3,2025-04-04,es,[18],upcoming
+1661632,Rosana: mejor vivir sin miedo,3.3031,0,0,2026-04-21,es,"[99, 10402]",upcoming
+1174334,A Foggy Tale,2.5357,11,7.4,2025-11-27,zh,"[12, 18]",upcoming
+961077,The Little Sister,2.7558,86,6.8,2025-10-22,fr,"[18, 10749]",upcoming
+1057265,Peddi,2.1732,0,0,2026-04-30,te,"[18, 28]",upcoming
+1254594,Omukade,1.7059,0,0,2026-01-22,th,"[27, 53, 10752]",upcoming
+1418657,The Yeti,2.2924,0,0,2026-04-04,en,"[27, 53]",upcoming
+1283320,Urchin,2.0121,48,6.4,2025-10-03,en,[18],upcoming
+1233655,Omaha,1.9687,2,8,2025-11-22,en,"[18, 10751]",upcoming
+959894,Pallichattambi,1.6818,0,0,2026-04-15,ml,"[28, 18]",upcoming
+1220566,Eagles of the Republic,2.8067,35,6.8,2025-09-19,en,"[53, 18]",upcoming
+1259983,Guru,2.2136,172,6.2,2026-01-28,fr,"[18, 53]",upcoming
+1589775,Wait Until I Make It,1.8936,3,7.2,2026-03-18,id,"[35, 18]",upcoming
+1404684,Juste une illusion,2.2722,1,8,2026-04-15,fr,"[35, 18]",upcoming
+1407885,Pelangi di Mars,1.638,3,4.667,2026-03-18,id,"[12, 18, 10751, 878]",upcoming
+1392527,Renoir,2.4381,13,6.7,2025-06-20,ja,[18],upcoming
+1214684,Kiss of the Spider Woman,2.3414,57,5.9,2025-10-09,en,"[10749, 10402, 18, 53]",upcoming
+1300501,Patriot,1.6656,0,0,2026-05-01,ml,"[28, 53]",upcoming
+1279865,A New Dawn,1.7221,0,0,2026-03-06,ja,"[16, 18]",upcoming
+896453,Flashback,2.0211,0,0,2026-04-30,ta,"[10749, 35, 28]",upcoming
+1243741,Ballistic,1.8312,0,0,2026-04-17,en,"[28, 53]",upcoming
+1471224,Murder in the Building,1.7699,25,6.44,2026-03-11,fr,"[35, 18, 80]",upcoming
+1653527,Cuntri,1.9706,0,0,2026-04-18,es,[12],upcoming
+1403189,Follies,1.9268,0,0,2026-01-30,fr,"[35, 10749]",upcoming
+1365683,Primavera,2.0981,37,6.8,2025-12-05,it,"[10402, 18, 36]",upcoming
+1432605,My Father's Shadow,2.1741,15,8,2025-09-19,en,[18],upcoming
+1172265,The Blue Trail,1.7296,86,7.006,2025-08-28,pt,"[18, 12, 878]",upcoming
+1542877,Assassination Classroom the Movie: Everyone's Time,2.034,4,7.5,2026-03-20,ja,"[16, 35, 28, 878]",upcoming
+898704,Desert Warrior,1.9072,0,0,2026-04-24,en,"[28, 18, 36]",upcoming
+1393326,Ghost in the Cell,1.9152,0,0,2026-04-16,id,"[27, 35, 53]",upcoming
+1514381,EgyBest,2.318,0,0,2026-03-19,ar,[18],upcoming
+1309725,The Richest Woman in the World,2.053,104,6,2025-10-29,fr,"[35, 18]",upcoming
+1290424,The Great Arch,1.5507,64,7.2,2025-11-05,fr,"[18, 36]",upcoming
+1545621,Detective Conan: Fallen Angel of the Highway,2.2184,0,0,2026-04-10,ja,"[16, 28, 9648, 80]",upcoming
+1247038,Levitating,1.4877,0,0,2026-04-23,id,[18],upcoming
+1276521,Charlie the Wonderdog,1.8706,6,6.2,2025-10-24,en,"[16, 28, 12, 35, 10751]",upcoming
+1319520,Human Resource,1.9077,5,6.6,2026-01-29,th,[18],upcoming
+1368519,Cinque secondi,1.97,72,6.694,2025-10-30,it,[18],upcoming
+1275255,Angels of War,1.5255,0,0,2026-04-23,ru,"[18, 36]",upcoming
+1466978,Mikael: Pemburu Dua Alam,1.4054,1,7,2026-04-02,ms,"[28, 35, 27, 14, 53]",upcoming
+1341341,4 Kids Walk Into a Bank,2.0315,0,0,2026-04-16,en,"[80, 35, 9648]",upcoming
+1511057,Roommates,2.342,0,0,2026-04-16,en,[35],upcoming
+1290450,Love Me Tender,1.8716,9,6.8,2025-12-10,fr,"[18, 36]",upcoming
+1365598,Arnie & Barney,1.5209,0,0,2026-04-23,de,"[16, 10751]",upcoming
+1178602,Miroirs No. 3,1.9484,33,6.4,2025-08-27,de,[18],upcoming
+1464829,Brand New Landscape,1.5883,1,1,2025-10-10,ja,[18],upcoming
+949536,Kill Code,1.9065,0,0,2026-04-16,en,"[28, 53]",upcoming
+1507724,Labyrinth,1.7276,1,7.5,2026-01-01,ja,"[16, 878]",upcoming
+1019939,Hundreds of Beavers,1.6014,274,7.195,2024-01-26,en,"[35, 12, 28]",upcoming
+1481041,Ginny Wedss Sunny 2,1.7961,0,0,2026-04-24,hi,"[10749, 35, 18]",upcoming
+1433117,Kara,1.4634,0,0,2026-04-30,ta,"[28, 18, 80, 53]",upcoming
+1645579,I'll Be Seeing You,1.4042,0,0,2026-04-25,en,[10749],upcoming
+1302848,Class Reunion,1.5928,51,5.902,2025-11-05,fr,[35],upcoming
+1176962,Rose,1.8741,0,0,2026-04-17,de,[18],upcoming
+1153885,Missing*Link,1.7435,0,0,2026-04-16,de,[18],upcoming
+1303657,Allegro Pastell,1.4656,0,0,2026-04-16,de,"[18, 10749]",upcoming
+1337592,Erupcja,1.738,0,0,2026-04-17,en,"[10749, 18, 35]",upcoming
+1576369,Bharathanatyam 2 Mohiniyattam,1.7549,0,0,2026-04-10,ml,"[35, 53]",upcoming
+1202152,The Myth of Maracuda,1.7498,8,7.9,2025-05-01,ru,"[10751, 16, 12, 35]",upcoming
+1575207,Dilan ITB 1997,1.231,0,0,2026-04-30,id,"[18, 10749]",upcoming
+1171153,Köln 75,1.754,45,7.167,2025-03-13,en,"[18, 36, 10402]",upcoming
+599019,Big Trip 2: Special Delivery,1.7014,96,6.4,2022-10-07,ru,"[16, 10751, 12, 35]",upcoming
+1215020,American Sweatshop,1.5603,34,5.2,2025-09-19,en,"[53, 9648]",upcoming
+1416391,Toaster,1.2964,0,0,2026-04-15,hi,[35],upcoming
+1461775,Bring Him Down to a Portable Size,1.4037,3,7,2025-11-28,ja,[18],upcoming
+970348,The Old Oak,1.1812,393,7.197,2023-09-29,en,[18],upcoming
+1292585,Hayao Miyazaki and the Heron,1.6115,34,7.809,2024-10-10,ja,[99],upcoming
+1035047,Home Sweet Home,1.3704,23,7,2025-11-07,pl,"[18, 53]",upcoming
+1595223,2DIE4,1.2129,0,0,2026-04-16,en,"[28, 99]",upcoming
+1335666,Glenrothan,1.6304,0,0,2026-04-17,en,"[18, 35]",upcoming
+1143440,The Ice Tower,1.5832,19,5.9,2025-09-17,fr,"[18, 14]",upcoming

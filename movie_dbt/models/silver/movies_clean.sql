@@ -12,13 +12,10 @@ cleaned AS (
         movie_id,
  
         -- Trim and clean title
-        TRIM(title) AS title,
+        TRIM(REPLACE(title,'"','')) AS title,
  
-        -- Ensure positive values
-        CASE
-            WHEN popularity < 0 THEN NULL
-            ELSE popularity
-        END AS popularity,
+        -- round up to 2 decimal
+        ROUND(popularity::numeric,2) AS popularity,
  
         CASE
             WHEN vote_count < 0 THEN 0
@@ -34,8 +31,9 @@ cleaned AS (
         release_date,
  
         -- Standardize language
-        LOWER(original_language) AS original_language
- 
+        LOWER(original_language) AS original_language,
+        genre_ids,
+        LOWER(source_type) AS source_type 
     FROM source
  
 ),

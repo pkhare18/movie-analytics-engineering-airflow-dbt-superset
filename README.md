@@ -152,3 +152,5 @@ localhost not working inside Docker
 - Airflow debugging and orchestration  
 - API ingestion patterns  
 - Medallion architecture implementation  
+
+![alt text](image.png)
